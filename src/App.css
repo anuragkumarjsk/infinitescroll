@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  background-color:plum;
+}
+#logoutbtn{
+  height: 45px;
+  width: 90px;
+  margin-top: 10px;
+}

@@ -1,0 +1,19 @@
+.loginwin{
+    min-width: 320px;
+    min-height: 480px;
+
+    max-width: 90vw;
+    max-height: 70vh;
+    margin: 40px;
+    background-color: aquamarine;
+    border: 1px solid navy;
+}
+
+.loginwin form{
+    font-family: 'Geneva';
+    margin: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
